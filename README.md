@@ -1,4 +1,4 @@
 # first
 My first github repo
 <br>
-Name: Nishtha Jaiswal
+Name: Nishtha Jaiswal(VIT)
